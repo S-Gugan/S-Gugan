@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=S-Gugan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://avatars.githubusercontent.com/u/264136470?v=4&size=64" alt="Profile Views" />
 
 </div>
 
